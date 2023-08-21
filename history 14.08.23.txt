@@ -1,0 +1,31 @@
+   0 cd /home
+   1 touch home.txt
+   2 touch user.txt
+   3 touch start.txt
+   4 touch 1.txt
+   5 echo "Start" > 1.txt
+   6 data >> home
+   7 home >> data
+   8 data >>
+   9 date >>
+  10 Start >> date
+  11 date >> Start
+  12 cp Start /opt/task/start.txt
+  13 cp home/opt/task/start.txt
+  14 ls -a/ | tail -4
+  15  /opt/task/start.txt date >> ls -a/ |tail -4
+  16 date >> ls -a/ |tail -4
+  17 cp task /tmp/testnew
+  18 cp task
+  19 cd /temp/testnew
+  20 cd /temp
+  21 date >> start.txt
+  22 mv task 
+  23 export_file
+  24 cd ~ 
+  25 export_file
+  26 d
+  27 export_file
+  28 export_file/temp/history
+  29 exportfile historyhw_1.txt
+  30 history > history.txt
